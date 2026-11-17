@@ -1,0 +1,9 @@
+{
+  "appId": "com.aerosense.iot",
+  "appName": "AeroSense IoT",
+  "webDir": "public",
+  "server": {
+    "url": "http://10.0.2.2/stasiun_cuacah/index.php",
+    "cleartext": true
+  }
+}

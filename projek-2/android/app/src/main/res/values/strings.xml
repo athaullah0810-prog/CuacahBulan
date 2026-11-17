@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">AeroSense IoT</string>
+    <string name="title_activity_main">AeroSense IoT</string>
+    <string name="package_name">com.aerosense.iot</string>
+    <string name="custom_url_scheme">com.aerosense.iot</string>
+</resources>

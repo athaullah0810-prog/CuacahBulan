@@ -1,0 +1,15 @@
+<svg viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg" class="w-full h-full">
+    <defs>
+        <linearGradient id="logoGrad" x1="0" y1="0" x2="40" y2="40" gradientUnits="userSpaceOnUse">
+            <stop offset="0%" stop-color="#0ea5e9"/>
+            <stop offset="100%" stop-color="#06b6d4"/>
+        </linearGradient>
+    </defs>
+    <rect width="40" height="40" rx="10" fill="url(#logoGrad)"/>
+    <!-- Sun / Solar Ring -->
+    <circle cx="25" cy="14" r="5" fill="#fde047" fill-opacity="0.9"/>
+    <!-- Cloud Silhouette -->
+    <path d="M13.5 27.5H26.5C28.9853 27.5 31 25.4853 31 23C31 20.6642 29.2202 18.7443 26.9403 18.5218C26.258 15.3679 23.4535 13 20.1 13C16.234 13 13.1 16.134 13.1 20C13.1 20.2215 13.1103 20.4406 13.1304 20.6567C11.3526 21.1823 10 22.8305 10 24.75C10 26.2688 11.567 27.5 13.5 27.5Z" fill="white"/>
+    <!-- AI Pulse Dot -->
+    <circle cx="20.5" cy="23" r="1.8" fill="#0284c7"/>
+</svg>
